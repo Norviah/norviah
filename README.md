@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Norviah/norviah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="middle">:)</p>
